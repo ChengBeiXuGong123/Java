@@ -1,2 +1,1 @@
-# Java
-Java学习
+＃学习Java
